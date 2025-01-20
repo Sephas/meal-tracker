@@ -1,0 +1,3 @@
+# requirements.txt
+# Currently empty as we're only using standard library
+# But useful for future dependencies
